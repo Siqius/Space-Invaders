@@ -1,0 +1,15 @@
+{
+    "difficulty": "1",
+    "music": true,
+    "musicVolume": 2,
+    "sfx": true,
+    "sfxVolume": 5,
+    "shootKeybind": "space",
+    "quitKeybind": "q",
+    "lifetimeKills": 52,
+    "lifetimeGames": 2,
+    "lifetimeShots": 62,
+    "totalShotsHit": 52,
+    "highscore": 780,
+    "accuracy": "83.87%"
+}
